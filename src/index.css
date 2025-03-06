@@ -1,0 +1,16 @@
+*{
+
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+
+
+}
+
+body{
+margin: top;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 200vh;
+  background: rgba(173, 172, 172, 0.8);
+}
+
